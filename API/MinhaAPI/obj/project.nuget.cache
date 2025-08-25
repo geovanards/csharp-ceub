@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gibJ/0kZfnM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geovana.rc\\Documents\\API\\MinhaAPI\\MinhaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geovana.rc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\geovana.rc\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
